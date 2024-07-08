@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1168px" height="1080px" viewBox="0 0 1168 1080" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>bokeh_creations</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-3.3%" y="-3.0%" width="106.6%" height="106.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="12.2460938" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="#1_7_Option-Watercolor-Portfolio-Preview-Copy-4" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-401.000000, 0.000000)" fill-opacity="0.6">
+        <g id="Preview-info" transform="translate(354.000000, -96.000000)" fill="#FFE9D3">
+            <path d="M82.1293892,710.902661 C146.165466,262.415098 411.762395,54.3270508 556.705132,28.5060174 C701.64787,2.68498394 1186,-138.83141 1186,575.161957 C1186,1051.15753 998.355549,1265.44638 623.066646,1218.0285 C219.75109,1178.93632 39.4386717,1009.89437 82.1293892,710.902661 Z" id="bokeh_creations" filter="url(#filter-1)"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1229px" height="1080px" viewBox="0 0 1229 1080" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>bokeh_contacts</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-2.5%" y="-3.0%" width="105.0%" height="106.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="12.2460938" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-12.1%" y="-16.0%" width="124.2%" height="132.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="50" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="#1_4_Option-Watercolor-Contacts-Gold-Copy-5" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-691.000000, 0.000000)">
+        <g id="BG-img" transform="translate(0.000000, -169.000000)">
+            <g id="bokeh_contacts" transform="translate(715.000000, 0.000000)">
+                <path d="M35,799.44031 C119.848771,350.952748 471.768725,142.8647 663.820047,117.043667 C855.87137,91.2226337 1497.64528,-50.2937607 1497.64528,663.699606 C1497.64528,1139.69518 1249.01354,1353.98403 751.750058,1306.56615 C217.350838,1267.47396 -21.5658474,1098.43202 35,799.44031 Z" id="Path-3" fill-opacity="0.798488451" fill="#FFE9D3" filter="url(#filter-1)"></path>
+                <path d="M55.5236593,994.056343 C145.610997,1058.67352 1068.70412,560.342803 1120.36481,253.934174 C1172.0255,-52.4744558 1521.28894,82.9971484 1013.28204,154.911814 C505.275132,226.826481 -34.5636782,929.439167 55.5236593,994.056343 Z" id="Path-4" fill-opacity="0.849524457" fill="#FCF1DF" filter="url(#filter-2)" transform="translate(665.504827, 531.000000) rotate(-6.000000) translate(-665.504827, -531.000000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1297px" height="1080px" viewBox="0 0 1297 1080" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>bokeh_about</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-2.8%" y="-3.2%" width="105.6%" height="106.5%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="12.2460938" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="#1_3_Option-Watercolor-About-Blue-Copy-5" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" fill-opacity="0.6">
+        <g id="BG-img" transform="translate(-49.000000, -25.000000)" fill="#FFE9D3">
+            <path d="M799.098388,1133.52526 L0.391367985,1133.52526 L0.391367985,0.262861065 L1144.47335,0.262861065 C1276.35998,127.087018 1332.59556,242.96686 1313.1801,347.902387 C1267.44959,595.063981 1096.08901,856.938273 799.098388,1133.52526 Z" id="bokeh_about" filter="url(#filter-1)"></path>
+        </g>
+    </g>
+</svg>
